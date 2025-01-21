@@ -1,4 +1,12 @@
 .biography{
-    height:120px ;
+    height:25px ;
     background-color: sandybrown;
+    width:min-content
+    text-align:center;
+}
+h1 {
+    text-align: center;
+    padding:0%;
+    margin: 0%;
+    flexbox:center;
 }

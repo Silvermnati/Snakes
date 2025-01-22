@@ -1,36 +1,30 @@
 .biography {
-  height: 25px;
+  height: 35px;
   background-color: sandybrown;
-  text-align: center;
   word-spacing: normal;
-  text-wrap: right;
+  text-align: center;
 }
 h1 {
   font: 100px;
+  font-size: xx-large;
+  font-display:flex;
 }
 body {
   background-color: slategrey;
 }
-.img {
-    height: 211px;
-    width: 300px;
-    text-wrap: right;
-}
+
 p {
-  font-size: x-large;
+  font-size:xx-large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  text-wrap: right;
 }
-.paragraph {
-  text-align: end;
-  font-style: initial;
-  font-size: x-large;
-}
-.facts{
-  text-align: right;
-  text-indent:flex;
-  text-align: left;
-}
+
+.snakeImage1{
+  height: 220px;
+  width: 400px; 
+} 
+
+
+
 
 
 

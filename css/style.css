@@ -2,6 +2,8 @@
   height: 25px;
   background-color: sandybrown;
   text-align: center;
+  word-spacing: normal;
+  text-wrap: right;
 }
 h1 {
   font: 100px;
@@ -12,8 +14,23 @@ body {
 .img {
     height: 211px;
     width: 300px;
+    text-wrap: right;
 }
 p {
   font-size: x-large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-wrap: right;
 }
+.paragraph {
+  text-align: end;
+  font-style: initial;
+  font-size: x-large;
+}
+.facts{
+  text-align: right;
+  text-indent:flex;
+  text-align: left;
+}
+
+
+

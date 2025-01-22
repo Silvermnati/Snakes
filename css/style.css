@@ -1,13 +1,17 @@
-.biography {
+.introduction {
   height: 35px;
   background-color: sandybrown;
   word-spacing: normal;
   text-align: center;
-}
+ }
 h1 {
   font: 100px;
   font-size: xx-large;
   font-display:flex;
+   background-color: burlywood;
+  text-align: center;
+  
+  
 }
 body {
   background-color: slategrey;
@@ -16,15 +20,23 @@ body {
 p {
   font-size:xx-large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
+  }
 
 .snakeImage1{
   height: 220px;
-  width: 400px; 
-} 
+  width:200px; 
+  float: left;
+  margin-right: 20px;
+}
 
+.biography {
+  font-size:xx-large;
+  text-align: center;
+}
 
-
-
-
-
+.About{
+  font-size:x-large;
+  display: flex;
+  flex-direction: column;
+  gap: 10px; ;
+}

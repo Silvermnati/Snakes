@@ -1,4 +1,4 @@
-.introduction {
+in .introduction {
   height: 35px;
   background-color: sandybrown;
   word-spacing: normal;
@@ -53,4 +53,14 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: x-large;
   font-style:Arial;sans-serif ;
+}
+.div {
+  display: grid;
+  grid-template-columns: subgrid;
+}
+
+.type2{
+  height: 225px;
+  float: right;
+  width:260px;
 }

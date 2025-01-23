@@ -13,15 +13,8 @@ The website explores various aspects of snake biology and behavior, focusing on 
 - Fun facts and educational content to change the narrative around snakes.
 - Links to social media platforms to spread awareness and engage with the community.
 
-## Installation
 
-To view the website locally on your machine, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/snakes-preservation-website.git
-
-   cd snakes-preservation-website  
 
    #licence#
 MIT License

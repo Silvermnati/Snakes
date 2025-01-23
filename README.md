@@ -13,10 +13,7 @@ The website explores various aspects of snake biology and behavior, focusing on 
 - Fun facts and educational content to change the narrative around snakes.
 - Links to social media platforms to spread awareness and engage with the community.
 
-
-
-
-   #licence#
+                #LICENCE#
 MIT License
 
 Copyright (c) [2025] [Snakes Center]
@@ -40,7 +37,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
- ##Acknowledgement##
+ #Acknowledgement#
   Special thanks to Venom seekers company who helped in the research of these species and helped in retraction of their venom that will be used to make antidotes and transported to the remote areas in our region.
  
 
